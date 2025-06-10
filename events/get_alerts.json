@@ -1,0 +1,9 @@
+[
+  {
+    "sensor_id": "sensor-123",
+    "type": "co2",
+    "value": 1200,
+    "level": "danger"
+  }
+]
+
